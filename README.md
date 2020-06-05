@@ -1,2 +1,5 @@
 # hello-world
-a practice for creating repository 
+
+Hi all! 
+
+this is hermione here who loves food and coding. 
